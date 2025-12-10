@@ -46,7 +46,7 @@
 
 ## 🏆 LeetCode Stats
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/suraj%20ray?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcode.com/u/sr03035701/theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
